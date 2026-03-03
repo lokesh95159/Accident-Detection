@@ -1,8 +1,8 @@
-streamlit
-opencv-python-headless
-torch
-torchvision
-ultralytics
-Pillow
-numpy
-twilio
+streamlit==1.32.2
+opencv-python-headless==4.9.0.80
+torch==2.2.1
+torchvision==0.17.1
+ultralytics==8.1.0
+Pillow==10.2.0
+numpy==1.26.4
+twilio==8.10.0
